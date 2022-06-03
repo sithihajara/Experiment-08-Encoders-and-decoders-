@@ -106,18 +106,24 @@ endmodule
 # OUTPUT:
 ## ENCODER:
 ### RTL LOGIC
-![encoderrtl](https://user-images.githubusercontent.com/94219582/171814886-893f71b1-5314-4f6e-b9dc-9445e30708ab.png)
+![s1](https://user-images.githubusercontent.com/94219582/171815780-fab0cc21-bd26-4b38-9cb0-85d52663d670.png)
+
 ## TIMING DIGRAMS
-<img width="356" alt="encoderwf" src="https://user-images.githubusercontent.com/94219582/171814910-3a4f019b-8410-4378-9b5c-2a5a5b34ccb5.png">
+<img width="356" alt="s2" src="https://user-images.githubusercontent.com/94219582/171815877-5fbdd758-ce10-47d2-a6c5-cd05f27989ab.png">
+
 ## TRUTH TABLE
-![171645891-e4f37212-36aa-40b9-88c3-7f48a221f15e](https://user-images.githubusercontent.com/94219582/171814969-4f4a5551-4da1-4378-b92a-a303c153c98c.png)
+![s3](https://user-images.githubusercontent.com/94219582/171815913-d5303193-b9ca-4b62-976a-236e4144d6ed.png)
+
 ### encoder truth
 ## DECODER:
 ### RTL LOGIC
-![decoderrtl](https://user-images.githubusercontent.com/94219582/171814987-69e3cf09-6b74-465f-8a29-809622c12c52.png)
+![s4](https://user-images.githubusercontent.com/94219582/171816006-cd92c5be-b0c9-4a16-9f14-8aec39388e35.png)
+
 ## TIMING DIGRAMS
-<img width="1262" alt="decoderwf" src="https://user-images.githubusercontent.com/94219582/171815028-f08f25ae-c98d-4bdd-8206-5d370811e2bf.png">
+<img width="1262" alt="s5" src="https://user-images.githubusercontent.com/94219582/171816071-c774acad-8b60-400c-9fae-abdc4a5c39a0.png">
+
 ### TRUTH TABLE
-![decodertt](https://user-images.githubusercontent.com/94219582/171815046-4bb3d485-f37b-4e1a-9297-45a843018fef.jpg)
+![s6](https://user-images.githubusercontent.com/94219582/171816099-b78743fd-500a-4707-a897-5cb65deca8fe.jpg)
+
 ## RESULT:
 Thus, 8 to 3 Encoder and 3 to 8 Decoder is implemented using verilog and its outputs is validated.
