@@ -103,26 +103,25 @@ assign d6 = (a&b&~c);
 assign d7 = (a&b&c);
 endmodule
 ```
-# OUTPUT:
-## ENCODER:
-### RTL LOGIC
+## OUTPUT:
+### ENCODER:
+#### RTL LOGIC
 ![s1](https://user-images.githubusercontent.com/94219582/171815780-fab0cc21-bd26-4b38-9cb0-85d52663d670.png)
 
-## TIMING DIGRAMS
+#### TIMING DIGRAMS
 <img width="356" alt="s2" src="https://user-images.githubusercontent.com/94219582/171815877-5fbdd758-ce10-47d2-a6c5-cd05f27989ab.png">
 
-## TRUTH TABLE
+#### TRUTH TABLE
 ![s3](https://user-images.githubusercontent.com/94219582/171815913-d5303193-b9ca-4b62-976a-236e4144d6ed.png)
 
-### encoder truth
-## DECODER:
-### RTL LOGIC
+### DECODER:
+#### RTL LOGIC
 ![s4](https://user-images.githubusercontent.com/94219582/171816006-cd92c5be-b0c9-4a16-9f14-8aec39388e35.png)
 
-## TIMING DIGRAMS
+#### TIMING DIGRAMS
 <img width="1262" alt="s5" src="https://user-images.githubusercontent.com/94219582/171816071-c774acad-8b60-400c-9fae-abdc4a5c39a0.png">
 
-### TRUTH TABLE
+#### TRUTH TABLE
 ![s6](https://user-images.githubusercontent.com/94219582/171816099-b78743fd-500a-4707-a897-5cb65deca8fe.jpg)
 
 ## RESULT:
